@@ -15,3 +15,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=PushpneetSingh&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+
