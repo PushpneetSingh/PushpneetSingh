@@ -11,3 +11,5 @@
 - Backend development using **Node Js**
 - Machine Learning
 - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
