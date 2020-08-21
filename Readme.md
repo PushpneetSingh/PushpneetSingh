@@ -11,5 +11,3 @@
 - Backend development using **Node Js**
 - Machine Learning
 - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
-
-[![HitCount](http://hits.dwyl.com/PushpneetSingh/PushpneetSingh.svg)](http://hits.dwyl.com/PushpneetSingh/PushpneetSingh)
