@@ -16,10 +16,10 @@
 ## Tech Stack
 
 - **Language**: C++ • Python
-- **Data**: Spark • Hadoop • SQL • Hive • Ab-initio • Sqoop • Data Modelling • Data Warehousing • AWS
-- **Development**: Vue Js • Flask • REST API • Git • Linux 
-- **Others/Familiar**: Airfow • Pandas • Numpy • NLP
+- **Data**: Spark • Hadoop • SQL • Data Modelling • Data Warehousing • AWS/GCP • Airflow • Snowflake
+- **Development**: FastAPI • REST API • Git • Linux • Docker
+- **Others/Familiar**:  Kafka • Temporal • Scala
 
 - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+[comment]: # ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
