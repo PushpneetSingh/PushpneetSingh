@@ -22,4 +22,4 @@
 
 - Portfolio site: [Portfolio](https://pushpneetsingh.netlify.com/)
 
-[comment]: # ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh) -->
